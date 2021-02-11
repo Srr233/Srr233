@@ -2,9 +2,9 @@
 ## My name is Sergey, I'm begginer developer and I'm from Belarus!
 ---
 ### My contacts:
-_[VK](https://vk.com/sr233);_
-_[Facebook](https://www.facebook.com/sergey.saltanov);_
-_Telegramm: @Sultii;_
+* _[VK](https://vk.com/sr233);_
+* _[Facebook](https://www.facebook.com/sergey.saltanov);_
+* _Telegramm: @Sultii;_
 ---
 ### Tech stack:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
