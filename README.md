@@ -25,7 +25,7 @@ _Telegramm: @Sultii;_
 * Sport :sunglasses:;
 
 ### How do I study English:
-* With my method, u can see that on my YouTube [video](https://www.youtube.com/watch?v=e9f09M-YeaM);
+* With my method, u can see that in my YouTube [video](https://www.youtube.com/watch?v=e9f09M-YeaM);
 * Watch films;
 * Speak in English;
 
