@@ -27,6 +27,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ---
+### My cerificates
+Rolling Scope School (RSSchool):
+[FE/JS 2020 Q3](https://app.rs.school/certificate/5md9ye5j)
+---
 ### My hobbies:
 * Do pet-projects for me by myself :heartbeat:;
 * Speak with people from another countries in English :dizzy:;
