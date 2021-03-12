@@ -33,13 +33,13 @@ Rolling Scope School (RSSchool):
 ---
 ### My hobbies:
 * Do pet-projects for me by myself :heartbeat:;
-* Speak with people from another countries in English :dizzy:;
+* Speak with people from other countries in English :dizzy:;
 * Sport :sunglasses:;
 ---
 ### How do I study English:
 * With my method, u can see that in my YouTube [video](https://www.youtube.com/watch?v=e9f09M-YeaM);
 * Watch films;
-* Speak in English;
+* Speak English;
 ---
 ### How do I manage my time:
 * I have a plan for this :computer:; 
