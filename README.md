@@ -1,5 +1,5 @@
 ### Hello! 👋 
-## My name is Sergey, I'm begginer developer and I'm from Belarus!
+## My name is Sergey, I'm full-stack developer
 ---
 ### My contacts:
 * _[VK](https://vk.com/sr233);_
