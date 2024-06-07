@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![WebPack](https://img.shields.io/badge/-WebPack-333333?style=flat&logo=WebPack)&nbsp;
+![NestJS](https://img.shields.io/badge/-WebPack-333333?style=flat&logo=Nestjs)&nbsp;
 ---
 ### Soft skils:
 * Self managment;
